@@ -1,6 +1,7 @@
 # 📝 Word Editor (Simple Text Editor)
 
 ![C#](https://img.shields.io/badge/Language-C%23-blue.svg)
+![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-purple.svg)
 
 A feature-rich, customizable **C# Windows Forms Text Editor** application built with modern UI capabilities, dynamic theme switching (Dark & Light modes), custom ToolStrip renderers, and full text-processing functionality.
 
