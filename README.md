@@ -83,6 +83,14 @@ The application provides custom UI renderers to ensure continuous visual consist
 * **IDE:** Visual Studio Community
 * **Graphics & UI:** GDI+ / `System.Drawing`, Custom `ToolStripRenderer`
 
+
+---
+
+## 🔗 LinkedIn Post
+
+> Full demo video and details available on LinkedIn:
+> [View Post](https://lnkd.in/p/e6cyccXv)
+
 ---
 
 ## 🙏 Acknowledgments
