@@ -9,6 +9,8 @@ A feature-rich, customizable **C# Windows Forms Text Editor** application built 
 ### Dark Mode 🌙
 <img width="1160" height="783" alt="DDark" src="https://github.com/user-attachments/assets/ddc013f6-8afb-44b5-bb8b-b502672481c2" />
 
+---
+
 ### Light Mode ☀️
 <img width="1161" height="786" alt="LLight" src="https://github.com/user-attachments/assets/06661a5e-23c7-4a62-b189-cf5cdc51e8c0" />
 
