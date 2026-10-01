@@ -8,9 +8,8 @@ A feature-rich, customizable **C# Windows Forms Text Editor** application built 
 
 | Dark Mode 🌙 | Light Mode ☀️ |
 | :---: | :---: |
-| <img width="1168" height="792" alt="TestEditor_DarkMode" src="https://github.com/user-attachments/assets/8085bba5-d695-4cd4-9753-ac274ccb1c42" />
- | <img width="1166" height="793" alt="TestEditor_LightMode" src="https://github.com/user-attachments/assets/9b9c1e75-7349-41c2-a7ed-9b8fab0237f5" />
- |
+<img width="1168" height="792" alt="TestEditor_DarkMode" src="https://github.com/user-attachments/assets/8085bba5-d695-4cd4-9753-ac274ccb1c42" />
+<img width="1166" height="793" alt="TestEditor_LightMode" src="https://github.com/user-attachments/assets/9b9c1e75-7349-41c2-a7ed-9b8fab0237f5" />
 
 
 ---
